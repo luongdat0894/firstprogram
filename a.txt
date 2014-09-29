@@ -1,2 +1,3 @@
 hello
 Fix #2
+Fix #3
